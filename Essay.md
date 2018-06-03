@@ -2,7 +2,7 @@
 
 <div align="justify">
  
-The scientific establishment is arguably in a state of turmoil. Theoretical estimates of most published findings in biomedicicine being false, such as that published by John Ioannidis a bit more than a decade ago (Ioannidis, 2015), are progressively corroborated by empirical evidence. An attempt by Amgen researchers to repreoduce landmark studies in cancer biology could only reproduce 6/55 studies and a similar attempt by BayerHealth could only adequately validate 14-17/68 of high-profile studies in biomedicine. Indeed, a series of articles published in the famous medical journal *The Lancet* estimated that roughly 85% of research investment (about $200 billion in 2010), is wasted (Macleod et al., 2014; , Røttingen et al., 2013) due to lack of appropriate scientific practice. Unfortunately, these problems are not inconsequential.
+The scientific establishment is arguably in a state of turmoil. Theoretical estimates of most published findings in biomedicicine being false, such as that published by John Ioannidis a bit more than a decade ago (Ioannidis, 2015), are progressively corroborated by empirical evidence. An attempt by Amgen researchers to repreoduce landmark studies in cancer biology could only reproduce 6/53 studies (Begley and Ellis, 2012) and a similar attempt by BayerHealth could only adequately validate 9-12/47 of high-profile studies in biomedicine (Prinz et al., 2011). Indeed, a series of articles published in the famous medical journal *The Lancet* estimated that roughly 85% of research investment (about $200 billion in 2010), is wasted (Macleod et al., 2014; , Røttingen et al., 2013) due to lack of appropriate scientific practice. Unfortunately, these problems are not inconsequential.
 
 One of the most obvious such examples is the now retracted 1998 [article](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(97)11096-0/abstract) in *The Lancet* by Wakefield et al., which purported that the measles, mumps and rubella (MMR) vaccine is associated with ‘pervasive developmental disorder in children’ (Wakefiled et al., 1998). These claims were made on the basis of a case series of twelve children, a study design and sample size that simply cannot make such bold claims. Despite multiple refutations of that early finding by better designed and more powerful studies, the repercussions of that paper have been far-reaching and have impacted public health and spending ever since. Another paper by Turner et al., published in the New England Journal of Medicine, it too a prestigious medical journal, revealed how the published literature on anti-depressant trials conveys a very skewed image of the truth (Turner et al., 2008). Even though out of 74 clinical trials registered with the Food and Drug Administration (FDA) only 38 identified a ‘positive’ result, most trials with a ‘negative’ result were either not published, or altered in such a way as to convey a ‘positive’ message; as such, out of 52 published trials, only 3 conveyed a ‘negative’ result. So, who is to blame for this status quo in biomedical research?
 
@@ -22,11 +22,15 @@ The scientific method is not fixed - as for any method in science, the scientifi
 ## References
 Begley CG. Six red flags for suspect work. Nature. 2013 May 23;497(7450):433-4. doi: 10.1038/497433a.
 
+Begley CG, Ellis LM. Drug development: Raise standards for preclinical cancer research. Nature. 2012 Mar 28;483(7391):531-3. doi: 10.1038/483531a.
+
 Ioannidis JP. Why most published research findings are false. PLoS Med. 2005 Aug;2(8):e124. 
 
 Ioannidis JP. How to make more published research true. PLoS Med. 2014 Oct 21;11(10):e1001747. doi: 10.1371/journal.pmed.1001747. eCollection 2014 Oct.
 
 Macleod MR, Michie S, Roberts I, Dirnagl U, Chalmers I, Ioannidis JP, Al-Shahi Salman R, Chan AW, Glasziou P. Biomedical research: increasing value, reducing waste. Lancet. 2014 Jan 11;383(9912):101-4. doi: 10.1016/S0140-6736(13)62329-6. 
+
+Prinz F, Schlange T, Asadullah K. Believe it or not: how much can we rely on published data on potential drug targets? Nat Rev Drug Discov. 2011 Aug 31;10(9):712. doi: 10.1038/nrd3439-c1.
 
 Røttingen JA, Regmi S, Eide M, et al. Mapping of available health research and development data: what’s there, what’s missing, and what role is there for a global observatory? Lancet 2013; 382: 1286–307.
 
