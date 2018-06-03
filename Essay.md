@@ -21,11 +21,17 @@ The scientific method is not fixed - as for any method in science, the scientifi
  
 ## References
 Begley CG. Six red flags for suspect work. Nature. 2013 May 23;497(7450):433-4. doi: 10.1038/497433a.
+
 Ioannidis JP. Why most published research findings are false. PLoS Med. 2005 Aug;2(8):e124. 
+
 Macleod MR, Michie S, Roberts I, Dirnagl U, Chalmers I, Ioannidis JP, Al-Shahi Salman R, Chan AW, Glasziou P. Biomedical research: increasing value, reducing waste. Lancet. 2014 Jan 11;383(9912):101-4. doi: 10.1016/S0140-6736(13)62329-6. 
+
 Røttingen JA, Regmi S, Eide M, et al. Mapping of available health research and development data: what’s there, what’s missing, and what role is there for a global observatory? Lancet 2013; 382: 1286–307.
+
 Turner EH, Matthews AM, Linardatos E, Tell RA, Rosenthal R. Selective publication of antidepressant trials and its influence on apparent efficacy. N Engl J Med. 2008 Jan 17;358(3):252-60. doi: 10.1056/NEJMsa065779.
+
 Wakefield AJ, Murch SH, Anthony A, Linnell J, Casson DM, Malik M, Berelowitz M, Dhillon AP, Thomson MA, Harvey P, Valentine A, Davies SE, Walker-Smith JA. Ileal-lymphoid-nodular hyperplasia, non-specific colitis, and pervasive developmental disorder in children. Lancet. 1998 Feb 28; 351(9103):637-41.
+
 Wasserstein RL, Lazar NA. The ASA's Statement on p-Values: Context, Process, and Purpose. Am Stat. 2016 Jun 09; 70(2): 129-33
 Greenberg SA. How citation distortions create unfounded authority: analysis of a citation network. BMJ. 2009;339:b2680.
 
