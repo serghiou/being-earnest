@@ -1,4 +1,4 @@
-# Being earnest about science: a plead from the new generation
+# Being earnest about science: a plea from the new generation
 
 <div align="justify">
  
