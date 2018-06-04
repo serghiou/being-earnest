@@ -7,7 +7,8 @@
 * It seems that a much higher proportion of landmark findings in biomedicine than previously thought are false. 
 * Research in the scientific method suggests that this is largely due to lack of rigor in scientific research.
 * Albeit most blame researchers for the status quo, the true culprit may be a misalignment of incentives.
-* We need to change how research is funded and rewarded if we are to train the new generation of scientists appropriately
+* The new generation is facing the impossible dilemma of abiding to principles of good practice versus incentives.
+* We need to change how research is funded and rewarded if we are to make more of what is published true.
 
 ## Article
 
