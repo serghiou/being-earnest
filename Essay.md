@@ -30,6 +30,8 @@ The scientific method is not static - as for any method in science, the scientif
 
 Let us embrace the evolution of the scientific method, be taught what we now know are important principles in scientific research and communication and let us practice the kind of science we should. A scientist’s work should be valued for its integrity, its rigor, its maturity and its robustness, rather than its volume and ability to harness a p-value. Let us be earnest about science, the way we should be earnest about working for the betterment of humanity at the best of our ability. It is for the benefit of all of us that we all, scientists or not, demand that the new generation of scientists be allowed to stand on the shoulders of giants that came before us and practice the kind of science we now know we should.
 
+## Ad
+
 If you are interested in the study of how scientific research works and evidence-based anything, you may be interested in subscribing to [this sub-reddit on meta-research](https://www.reddit.com/r/metaresearch/).
 
  
