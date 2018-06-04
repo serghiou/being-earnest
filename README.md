@@ -1,4 +1,4 @@
-# Being earnest about science: the skeleton in the closet 
+# Being earnest about science: a plea from the new generation
 
 <div align="justify">
   
