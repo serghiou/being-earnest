@@ -32,7 +32,7 @@ Let us embrace the evolution of the scientific method, be taught what we now kno
 
 ## Ad
 
-If you are interested in the study of how scientific research works and evidence-based anything, you may be interested in subscribing to [this sub-reddit on meta-research](https://www.reddit.com/r/metaresearch/).
+If you are interested in the study of how scientific research works and promoting evidence-based anything, you may be interested in checking out and subscribing to [this sub-reddit on meta-research](https://www.reddit.com/r/metaresearch/).
 
  
 ## References
